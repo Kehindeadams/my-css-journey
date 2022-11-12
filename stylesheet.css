@@ -1,0 +1,17 @@
+h1{
+    background-color: brown;
+    font-size: larger;
+
+}
+.header{
+    font-size: xx-large;
+    color: blueviolet;
+}
+#header{
+    font-size: x-large;
+    background-color: yellow;
+}
+p{
+    color: blue;
+    font-style: italic;
+}
